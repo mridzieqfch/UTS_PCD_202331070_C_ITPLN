@@ -1,4 +1,4 @@
-# UTS_PCD_12345678_4A_ITPLN
+# UTS_PCD_202331070_C_ITPLN
 
 Repository ini berisi proyek Ujian Tengah Semester (UTS) untuk Mata Kuliah **Pengolahan Citra Digital** Tahun 2025 di ITPLN.
 
